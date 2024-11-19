@@ -29,10 +29,10 @@ These sessions will cover essential Python skills relevant to quantum computing.
 ### Quantum Computing Session (Physical):
 Lectures would be delivered by Quantum amabassadors, exploring quantum computing applications and engaging students in hands-on activities.
 
-**Day 4:** Building quantum circuits and implementation of some labs- Onsite(Uniuyo). Saturday 23/11/2023
+**Day 4:** Building quantum circuits and implementation of some labs- Onsite(Uniuyo). Saturday 23/11/2023, 11:00 AM
 
 **Venue:** New Engineering Classroom Block (NECB) I.
 
-**Day 5:** Building quantum circuits and implementation of some labs- Onsite(Uniuyo). Saturday 23/11/2023, 4:00PM
+**Day 5:** Building quantum circuits and implementation of some labs- Onsite(Uniuyo). Saturday 25/11/2023, 4:00PM
 
 **Venue:** New Engineering Classroom Block (NECB) I.
