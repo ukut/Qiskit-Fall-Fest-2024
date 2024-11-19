@@ -1,7 +1,9 @@
 # Welcome!
 The Qiskit Fall Fest is a collection of quantum computing events on college campuses worldwide. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team.
 
-Qiskit Fall Fest 2024 for University of Uyo, Akwa Ibom Nigeria is an Inter-faculty wide Quantum Computing Event called IBM Fall Fest, scheduled to begin on **20th November, 2024.**. We are thrilled to have all of you here. A team of volunteers from the University of Uyo proudly hosts this event.
+Qiskit Fall Fest 2024 for University of Uyo, Akwa Ibom Nigeria is an Inter-faculty wide Quantum Computing Event called IBM Fall Fest, scheduled to begin on **20th November, 2024.**
+
+We are thrilled to have all of you here. A team of volunteers from the University of Uyo proudly host this event.
 
 ![Event Flyer](https://github.com/user-attachments/assets/371ebba4-0ddd-4c29-9bf5-c828c8413116)
 
